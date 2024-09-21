@@ -1,5 +1,7 @@
-#Power BI Dashboard for Client Debt Analysis
+Power BI Dashboard for Client Debt Analysis
+
 Overview
+
 This Power BI dashboard provides a comprehensive analysis of client debt data, focusing on key financial metrics such as debt ratios, credit utilisation, and delinquency rates. The dashboard helps stakeholders visualize and monitor the financial health of clients, offering insights into credit risk and repayment behaviors.
 
 Key Metrics:
